@@ -1,6 +1,6 @@
 
 
-# [Project Name] 🎯
+# User Auth-JobPortal 🎯
 
 
 ## Basic Details
